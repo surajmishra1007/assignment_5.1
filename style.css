@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(rgb(241, 241, 170), yellow)
+}/*body tag with background white to yellow gradient*/
+
+header{
+    border-radius: 200px;
+    background: blue;
+    border: 1px;
+    color: white;
+    width: 140px;
+    height: 70px;
+    text-align: center;
+    padding: 20px;
+}/*styles for header*/
